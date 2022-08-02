@@ -8,6 +8,7 @@ public class Assigment2 {
 		for (byte i = 0; i <= 100; i = (byte) (i + 2)) {
 			System.out.println(i);
 		}
+		
 
 	}
 

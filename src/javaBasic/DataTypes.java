@@ -14,7 +14,7 @@ public class DataTypes {
 		// memory for b then why we creating another b
 		byte b1 = 40;
 		System.out.println(b);
-		System.out.println(b + b1);// where '+' is arithmetic operator operator
+		System.out.println(b + b1);// where '+' is arithmetic operator 
 
 		short i = 1000;
 
