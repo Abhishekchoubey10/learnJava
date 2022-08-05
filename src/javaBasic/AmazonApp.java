@@ -101,7 +101,9 @@ public class AmazonApp {
 	public static void main(String[] args) {
 
 		AmazonApp ap = new AmazonApp();
-		ap.add(10, 20);
+		
+		int i = ap.add(10, 20);
+		System.out.println(i);
 
 		int a = 10;
 		int b = 20;

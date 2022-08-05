@@ -40,8 +40,7 @@ public class Assignment15 {
 		int h = 3400;
 		System.out.println("Your Total amount is." +(f+g+h));
 		
-		byte b3 = 065;
-		System.out.println(b3);
+		
 		
 	}
 
