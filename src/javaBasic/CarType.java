@@ -25,7 +25,7 @@ public class CarType {
 	// main method is store inside a metaspace
 	// if main method is non static than JVM will create a object a call a main
 	// method unnecessary, create a object is always a programmer responsibility and
-	// user responsibility
+	// not a user responsibility
 	// JVM is only help to create a object but JVM never create a object by its own
 
 	public static void main(String[] args) {
@@ -40,6 +40,7 @@ public class CarType {
 		// static keywords
 		// never call static variable with object reference name
 		c1.stop();
+		
 
 		// to call static methods:
 		start();
