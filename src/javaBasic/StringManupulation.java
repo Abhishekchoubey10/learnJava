@@ -37,7 +37,7 @@ public class StringManupulation {
 		int k = s.indexOf('i', s.indexOf('i', s.indexOf('i') + 1) + 1);
 		System.out.println(k);
 
-		System.out.println(s.indexOf("python"));// position of the python is -1. because in java any if some thing is
+		System.out.println(s.indexOf("python"));// position of the python is -1. because in java, if some thing is
 												// not available than it giving by default -1
 
 		String mesg = "welcome admin";
