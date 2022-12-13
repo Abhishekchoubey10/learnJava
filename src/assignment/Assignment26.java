@@ -16,7 +16,7 @@ public class Assignment26 {
 		ay.add("Abhishek");
 		ay.add("Ram");
 		ay.add("Uttam");
-		ay.add("alok");
+		ay.add("alok ");
 		
 		for(int i =0; i< ay.size(); i++) {
 			System.out.println(ay.get(i));
